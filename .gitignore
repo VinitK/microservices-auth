@@ -1,0 +1,4 @@
+authservice/node_modules
+authservice/.env
+publishservice/node_modules
+publishservice/.env
